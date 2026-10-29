@@ -4,7 +4,8 @@
 
 ## Known limations
 
-Right now we can only find syntax erros and god functions (functions > designated length). We are not querying an llm to get questions or problems that will be implemented in the future. Right now you can only see the two simple findings if there are any.
+#### Right now we can only find syntax erros and god functions (functions > designated length). We are not querying an llm to get questions or problems that will be implemented in the future. Right now you can only see the two simple findings if there are any.
+
 ---
 
 ## Setup
